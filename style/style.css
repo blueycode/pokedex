@@ -107,12 +107,13 @@ body {
     color:  rgb(116, 203, 72);
     font-weight: bold;
     text-align: right;
-    padding-right: 0.6rem;
-    border-right: 1px solid gray;
+    margin-right: 0.6rem;
+    
 }
 
 .stat-number {
     padding-left: 0.6rem;
+    border-left: 1px solid gray;
 }
 
 .stat-bar {
