@@ -9,7 +9,7 @@
     <em>A simple Pokedex developed with HTML, CSS and JavaScript using <a href="https://pokeapi.co">Pokeapi</a></em>
     <br />
     <br />
-    <a href="https://github.com/blueycode/pokedex">View Demo</a>
+    <a href="https://blueycode.github.io/pokedex">View Demo</a>
     ·
     <a href="https://github.com/blueycode/pokedex/issues">Report Bug</a>
     ·
@@ -38,7 +38,7 @@ This repository makes part of Bluey Code's project. Its entire development proce
 <!-- LIVE DEMO -->
 ### Live Demo
 
-You can check a running version of this project <a href="https://blueycode.github.io/pokedex/">here</a>.
+You can check a running version of this project <a href="https://blueycode.github.io/pokedex">here</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
