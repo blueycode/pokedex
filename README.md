@@ -26,6 +26,7 @@ This repository makes part of Bluey Code's project. Its entire development proce
 ### Assets
 
 * <a href="https://whimsical.com/pokedex-bluey-code-P7wV14AeBicEWbvXtNtksz">Mind map</a> that was shown in the video.
+* Reference Project: <a href="https://www.figma.com/community/file/979132880663340794">Pokédex, by Ricardo Schiniegoski</a>
 
 ### Built With
 
