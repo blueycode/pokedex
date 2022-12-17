@@ -77,12 +77,3 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/blueycode/pokedex](https://github.com/blueycode/pokedex)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
